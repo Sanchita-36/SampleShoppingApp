@@ -10,4 +10,6 @@ The app shows usage of Table View and Collection View.
 On launching the app, a table view appears that shows different categories for shopping. 
 After clicking on one od the cells it take to next page where some items are added in collection view for that selected category.
 
-I am still a learner, any suggestions would be appreciated at email id - sanchitalachke@gmail.com. Thank you.
+I am still a learner trying to build good applications and get good understanding of iOS Development.
+If you have any suggestions please send them at email id - sanchitalachke@gmail.com and DONT FORGET TO ADD -> "GITHUB SUGGESTION FOR - (PROJECT NAME)" TO YOUR SUBJECT LINE.
+Thank You!
