@@ -10,4 +10,4 @@ The app shows usage of Table View and Collection View.
 On launching the app, a table view appears that shows different categories for shopping. 
 After clicking on one od the cells it take to next page where some items are added in collection view for that selected category.
 
-I am still a learner, any suggestions would be appreciated. Thank you.
+I am still a learner, any suggestions would be appreciated at email id - sanchitalachke@gmail.com. Thank you.
